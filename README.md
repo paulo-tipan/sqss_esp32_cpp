@@ -1,4 +1,4 @@
-# sqss_esp32_cpp
+# SQSS ESP32 C++
 System: SQSS
   - CO2 
   - Light
